@@ -6,7 +6,7 @@
 
 稍等一会，如图 1 所示，出现绿色 √ 说明部署完毕，访问`your-github-username.github.io`，即可出现和模板 [demo site](https://minimal-light-theme.yliu.me/) 一致的网页，说明已经部署成功了，后续在此基础上修改即可。
 
-![image-20240916201319886](./assets/image-20240916201319886.png)
+![image-20240916201319886](./assets/readme/image-20240916201319886.png)
 
 ## 2 基本修改
 
