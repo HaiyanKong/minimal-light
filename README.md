@@ -2,15 +2,13 @@
 
 ## 1 初始部署
 
-直接 fork [minimal-light](https://github.com/yaoyao-liu/minimal-light) 仓库(或者[使用这个仓库作为模板](https://docs.github.com/cn/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template))，给该仓库命名为`your-github-username.github.io`。
-
-稍等一会，如图 1 所示，出现绿色 √ 说明部署完毕，访问`your-github-username.github.io`，即可出现和模板 [demo site](https://minimal-light-theme.yliu.me/) 一致的网页，说明已经部署成功了，后续在此基础上修改即可。
+fork [minimal-light](https://github.com/yaoyao-liu/minimal-light) 仓库(或者直接使用该 [仓库](https://github.com/yaoyao-liu/minimal-light) 为模板，点击 'star' 右边的 'Use this template' 即可)，给该仓库命名为`your-github-username.github.io`。稍等一会，如图 1 所示，出现绿色 √ 说明部署完毕，访问`your-github-username.github.io`，即可出现和模板 [demo site](https://minimal-light-theme.yliu.me/) 一致的网页，说明已经部署成功了，后续在此基础上修改即可。
 
 ![image-20240916201319886](./assets/readme/image-20240916201319886.png)
 
-## 2 基本修改
+## 2 必要修改
 
-### 2.1 编辑 `_config.yml`（左侧栏的内容）
+### 2.1 编辑 `_config.yml`（网页左侧栏的内容）
 
 以在`_config.yml`文件中修改以下变量，即可配置个人基本信息:
 
@@ -39,7 +37,7 @@ favicon: ./assets/img/favicon.png  # 网站图标，可以不修改
 favicon_dark: ./assets/img/favicon-dark.png  # 黑暗模式下的网站图标，可以不修改
   ```
 
-### 2.2 编辑 `index.md`（右侧的主题内容）
+### 2.2 编辑 `index.md`（网页右侧的主内容）
 
 修改根目录下的`index.md` 的内容即可。
 
