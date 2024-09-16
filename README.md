@@ -113,4 +113,6 @@ others: 可以在这里写任何东西，例如文章的简介【选填】
 
 `/assets/css/...`
 
-本教程的修改仅仅添加了 back to top 的小功能，具体可以参考这条提交：[add vanilla-back-to-top function](https://github.com/HaiyanKong/minimal-light/commit/8b1f018a367f4c552a5863147d91ee65d32f7a73)
+当前分支的修改：
+
+- 添加了 back to top：[add vanilla-back-to-top function](https://github.com/HaiyanKong/minimal-light/commit/8b1f018a367f4c552a5863147d91ee65d32f7a73)
