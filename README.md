@@ -17,12 +17,12 @@ fork [minimal-light](https://github.com/yaoyao-liu/minimal-light) 仓库(或者�
 title: 姓名
 position: 当前状态，例如 Ph.D. Student
 affiliation: 所在单位
-email: yourname (at) example.edu
+email: example (at) example.edu
 
 # 搜索引擎优化 (SEO)
-keywords: minimal light
-description: "XXX's academic website"
-canonical: https://minimal-light-theme.yliu.me/
+keywords: minimal light # 可以不修改
+description: "your name's academic website" 
+canonical: https://minimal-light-theme.yliu.me/ # 可以不修改
 
 # 链接（不需要的注释掉）
 google_scholar: https://scholar.google.com/
